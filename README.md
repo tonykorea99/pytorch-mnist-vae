@@ -7,7 +7,7 @@ Corresponding Velog post : [VAE(Variational AutoEncoder)의 원리 · 설명 wit
 ## TO-DO
 
 - Simple VAE template (done)
-- VAE-GAN template (working on it)
+- Simple Diffusion Model template (working on it)
 - cVAE template
 
 ## Environment
